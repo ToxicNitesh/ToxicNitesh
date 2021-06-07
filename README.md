@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ToxicNitesh/ToxicNitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me: 
 
-Here are some ideas to get you started:
+Enthusiastic engineering college undergraduate with profound interest in programming and technology.
+Skilled in PYTHON,ACHINE LEARNING,SQL and CLOUD COMPUTING.Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a developing my technical skills
+- 🌱 I’m currently a student of Bachelor's of Information Technology and expected to graduate by 2022
+- 👯 I’m looking to collaborate on Data Science Projects
+- 💬 Ask me about anything
+- 📫 How to reach me: niteshpednekar2001@gmail.com
+- 
+
+CONTACT ME: https://www.linkedin.com/in/nitesh-pednekar-29aa531a5/
+
+MY WEBSITE: https://niteshpednekar2001.wixsite.com/niteshpednekar
