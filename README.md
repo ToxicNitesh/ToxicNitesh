@@ -11,7 +11,7 @@ Skilled in PYTHON,ACHINE LEARNING,SQL and CLOUD COMPUTING.Looking to start the c
 - 👯 I’m looking to collaborate on Data Science Projects
 - 💬 Ask me about anything
 - 📫 How to reach me: niteshpednekar2001@gmail.com
-- 
+
 
 CONTACT ME: https://www.linkedin.com/in/nitesh-pednekar-29aa531a5/
 
